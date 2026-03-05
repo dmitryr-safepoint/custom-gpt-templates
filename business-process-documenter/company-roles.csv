@@ -1,0 +1,13 @@
+Role,Department,Reports To,Responsibilities
+CEO,Executive,Board,Overall company strategy and leadership
+COO,Executive,CEO,Daily operations and process oversight
+Operations Manager,Operations,COO,Day-to-day business operations and vendor management
+Office Manager,Administration,COO,Office logistics and administrative support
+Sales Manager,Sales,CEO,Sales team leadership and pipeline management
+Account Executive,Sales,Sales Manager,Client acquisition and relationship management
+Project Manager,Delivery,COO,Project planning and execution and client delivery
+HR Coordinator,Human Resources,COO,Recruiting and onboarding and employee relations
+Controller,Finance,CEO,Financial reporting and budgeting and accounts
+Customer Success Manager,Client Services,COO,Client retention and satisfaction and upselling
+IT Administrator,IT,COO,Internal technology systems and support
+Marketing Coordinator,Marketing,Sales Manager,Marketing campaigns and content and events

@@ -1,0 +1,44 @@
+STANDARD OPERATING PROCEDURE TEMPLATE
+
+Process Name: [Enter process name]
+Version: 1.0
+Last Updated: [Date]
+Process Owner: [Role]
+Department: [Department]
+
+1. PURPOSE
+[Why does this process exist? What does it accomplish?]
+
+2. SCOPE
+[Who does this apply to? When should it be followed?]
+
+3. TRIGGER
+[What event or action starts this process?]
+
+4. ROLES & RESPONSIBILITIES
+- [Role 1]: [What they are responsible for]
+- [Role 2]: [What they are responsible for]
+
+5. PROCEDURE
+Step 1: [Action] — Performed by [Role] using [Tool/System]
+Step 2: [Action] — Performed by [Role] using [Tool/System]
+
+DECISION POINT: [Question]
+  → If YES: [Next step]
+  → If NO: [Alternative step]
+
+Step 3: [Action]
+
+6. EXCEPTIONS & EDGE CASES
+- Exception 1: [Scenario] → [How to handle]
+- Exception 2: [Scenario] → [How to handle]
+
+7. COMPLETION CRITERIA
+[How do you know this process is done?]
+
+8. RELATED DOCUMENTS
+- [Document name / link]
+
+9. REVISION HISTORY
+Version | Date | Author | Changes
+1.0     | [Date] | [Role] | Initial creation
