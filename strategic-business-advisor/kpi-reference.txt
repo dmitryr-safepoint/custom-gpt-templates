@@ -1,0 +1,39 @@
+KPI REFERENCE GUIDE FOR PROFESSIONAL SERVICES FIRMS
+
+FINANCIAL KPIs
+- Revenue Growth Rate: Year-over-year percentage change in total revenue. Track monthly and annually.
+- Gross Margin: (Revenue - Direct Costs) / Revenue. Target: 50-60% for services firms.
+- Net Profit Margin: Net Income / Revenue. Healthy range: 10-18%. Below 8% signals structural issues.
+- Revenue Per Employee: Total Revenue / Total Headcount. Key efficiency metric. Target: $150K-$200K+.
+- Cash Conversion Cycle: Days between spending cash and receiving cash from clients. Shorter is better.
+- Monthly Recurring Revenue (MRR): Predictable revenue from retainers and ongoing contracts.
+- Revenue Concentration: % of revenue from top 5 clients. Above 40% is a significant business risk.
+
+SALES KPIs
+- Pipeline Coverage Ratio: Total pipeline value / Revenue target. Should be 3x or higher.
+- Sales Cycle Length: Average days from first contact to signed contract. Track by service type.
+- Proposal Win Rate: Proposals won / Proposals submitted. Below 25% suggests poor qualification.
+- Client Acquisition Cost (CAC): Total sales & marketing spend / New clients acquired.
+- Lead-to-Opportunity Rate: What percentage of leads become qualified opportunities.
+- Average Deal Size: Track trends — shrinking deal sizes may signal pricing pressure.
+
+CLIENT KPIs
+- Client Retention Rate: Clients retained / Total clients at start of period. Target: 85%+.
+- Net Promoter Score (NPS): Measures client willingness to recommend. Industry avg: 38. Top firms: 55+.
+- Client Lifetime Value (LTV): Average revenue per client x Average client lifetime. Compare to CAC.
+- Expansion Revenue: Additional revenue from existing clients (upsells, cross-sells, scope increases).
+- At-Risk Client Count: Number of clients showing warning signs (reduced engagement, complaints, delayed payments).
+
+OPERATIONAL KPIs
+- Utilization Rate: Billable hours / Available hours. Target: 75-80% for consultants.
+- Project Profitability: Actual margin vs. estimated margin per project. Track overruns.
+- On-Time Delivery: Percentage of projects delivered on schedule. Target: 90%+.
+- Scope Creep Rate: Percentage of projects that exceed original scope. Track and address root causes.
+- Resource Forecast Accuracy: How well you predict staffing needs 30/60/90 days out.
+
+PEOPLE KPIs
+- Employee Turnover Rate: Voluntary departures / Average headcount. Below 12% is healthy.
+- Time to Fill: Average days to fill an open position. Long times signal hiring process or brand issues.
+- Employee Satisfaction/eNPS: Internal Net Promoter Score. Survey quarterly.
+- Revenue Per Billable Employee: Revenue / Number of billable staff. More specific than revenue per employee.
+- Training Investment: Hours or dollars invested in employee development per person per year.

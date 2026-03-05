@@ -1,0 +1,16 @@
+Metric,Description,Low Performer,Average,Top Performer,Source/Notes
+Revenue Per Employee,Annual revenue divided by total headcount,$120000,$175000,$250000,Professional services benchmark
+Gross Margin,Revenue minus direct costs as percentage of revenue,40%,55%,65%,Varies by service mix
+Net Profit Margin,Bottom line profit as percentage of revenue,5%,10%,18%,After all expenses including owner compensation
+Consultant Utilization Rate,Billable hours as percentage of available hours,60%,72%,82%,Key driver of profitability
+Client Retention Rate,Percentage of clients retained year over year,75%,85%,93%,Measured annually
+Revenue Concentration Top 5,Percentage of revenue from 5 largest clients,50%+,30%,15%,Above 40% is high risk
+Client Acquisition Cost,Average cost to acquire a new client,$10000,$6500,$3500,Includes sales and marketing spend
+Average Client Lifetime,How long clients stay in years,1.5,3.0,5.0+,Longer is better for LTV
+Employee Turnover Rate,Annual voluntary turnover percentage,25%,15%,8%,High turnover increases costs significantly
+Revenue Growth Rate YoY,Year over year revenue growth,0-3%,8-12%,15-25%,Organic growth without acquisitions
+Sales Cycle Length,Average days from first contact to closed deal,120+,75,45,B2B professional services
+Proposal Win Rate,Percentage of proposals that convert to clients,15%,30%,45%,Depends on qualification rigor
+NPS Score,Net Promoter Score from client surveys,20,38,55+,Industry average for professional services
+Revenue from Recurring,Percentage of revenue from recurring/retainer contracts,20%,40%,65%,Higher recurring = more predictable revenue
+Average Project Size,Typical project revenue,$15000,$45000,$100000+,Varies significantly by service type
